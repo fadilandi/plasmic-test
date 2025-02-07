@@ -1,0 +1,30 @@
+{
+  "name": "tmp-cpa",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@ant-design/icons": "^5.6.0",
+    "@ant-design/pro-components": "^2.6.4",
+    "@plasmicapp/cli": "^0.1.335",
+    "@plasmicapp/react-web": "^0.2.365",
+    "@plasmicpkgs/antd5": "^0.0.266",
+    "@plasmicpkgs/plasmic-basic-components": "^0.0.232",
+    "@plasmicpkgs/plasmic-rich-components": "^1.0.200",
+    "@plasmicpkgs/react-chartjs-2": "^1.0.115",
+    "chart.js": "^4.4.7",
+    "next": "14.2.23",
+    "react": "^18",
+    "react-chartjs-2": "^5.3.0",
+    "react-dom": "^18"
+  },
+  "devDependencies": {
+    "eslint": "^8",
+    "eslint-config-next": "14.2.23"
+  }
+}

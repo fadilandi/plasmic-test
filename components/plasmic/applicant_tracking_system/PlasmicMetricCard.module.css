@@ -1,0 +1,37 @@
+.root {
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+  background: var(--token-cqMlpJOYANd-);
+  position: relative;
+  min-width: 0;
+  border-radius: 12px;
+  padding: 24px;
+  border: 1px solid var(--token-s3QctluBGjJB);
+}
+.root > :global(.__wab_flex-container) {
+  flex-direction: column;
+  min-width: 0;
+  margin-left: calc(0px - 0px);
+  width: calc(100% + 0px);
+  margin-top: calc(0px - 8px);
+  height: calc(100% + 8px);
+}
+.root > :global(.__wab_flex-container) > *,
+.root > :global(.__wab_flex-container) > :global(.__wab_slot) > *,
+.root > :global(.__wab_flex-container) > picture > img,
+.root > :global(.__wab_flex-container) > :global(.__wab_slot) > picture > img {
+  margin-left: 0px;
+  margin-top: 8px;
+}
+.h2 {
+  display: flex;
+  flex-direction: row;
+}
+.h4 {
+  display: flex;
+  flex-direction: row;
+}
+.slotTargetSlot2 {
+  color: var(--token-tX2qcnHBofHi);
+}
